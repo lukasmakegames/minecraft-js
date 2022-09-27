@@ -3,6 +3,8 @@
 This project is based on this Tutorial:
 [Code a Minecraft Clone with JavaScript, React, Three.js – Tutorial](https://www.youtube.com/watch?v=qpOZup_3P_A)
 
+![Preview](preview.png 'Preview')
+
 ## How to play?
 
 Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt.
